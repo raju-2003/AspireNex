@@ -7,6 +7,9 @@ This repository contains two AI projects.
 ### Overview
 This project is a rule-based chatbot implemented in Python. The chatbot can perform various tasks such as arithmetic calculations, date and time queries, random number generation, mathematical and statistical calculations, opening URLs, and file operations.
 
+### Deployed Web Application
+[https://aspirenexpythonchatbot.streamlit.app/]
+
 ### Features
 - Arithmetic calculations
 - Date and time queries
@@ -69,12 +72,6 @@ This project is a Tic-Tac-Toe game with an AI opponent implemented using the min
 
 ### Example
 After running the script, a window will appear where you can play Tic-Tac-Toe against the AI. The game board will update with each move, and a message box will display the result when the game ends.
-
-## Contributing
-If you would like to contribute to this repository, please fork the project and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any questions or feedback, please contact [2003braj@gmail.com].
