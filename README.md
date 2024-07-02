@@ -73,5 +73,9 @@ This project is a Tic-Tac-Toe game with an AI opponent implemented using the min
 ### Example
 After running the script, a window will appear where you can play Tic-Tac-Toe against the AI. The game board will update with each move, and a message box will display the result when the game ends.
 
+### Usage
+https://github.com/raju-2003/AspireNex/blob/main/Artificial%20Intelligence/Tic%20Tac%20Toe/dist/main.exe
+Download this application and run to play the AI powered Tic Tac Toe game
+
 ## Contact
 For any questions or feedback, please contact [2003braj@gmail.com].
