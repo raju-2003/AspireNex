@@ -1,6 +1,6 @@
-# My AI Projects Repository
+# AspireNex AI Internship Assesment
 
-This repository contains two different AI projects.
+This repository contains two AI projects.
 
 ## Project 1: Rule-based Chatbot
 
