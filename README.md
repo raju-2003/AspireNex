@@ -7,8 +7,8 @@ This repository contains two AI projects.
 ### Overview
 This project is a rule-based chatbot implemented in Python. The chatbot can perform various tasks such as arithmetic calculations, date and time queries, random number generation, mathematical and statistical calculations, opening URLs, and file operations.
 
-### Deployed Web Application
-[https://aspirenexpythonchatbot.streamlit.app/]
+### Deployed Python Rule Based Chatbot Web Application
+https://aspirenexpythonchatbot.streamlit.app/
 
 ### Features
 - Arithmetic calculations
